@@ -29,6 +29,6 @@
 
 **Something you need to inform your reviewer about**
 
-## 👥 Who notify after deployment
+## 👥 Who to notify after deployment
 
 **Who should we notify after the deployment of this PR?**
