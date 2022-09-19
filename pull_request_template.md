@@ -3,7 +3,6 @@
 **Describe what your PR addresses, could be a bug or a feature request**
 
 -   [Specs](#JiraIssueOrSpecUrl)
--
 
 **What types of changes does your code introduce?**
 
