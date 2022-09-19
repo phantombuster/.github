@@ -5,9 +5,19 @@
 -   [Specs](#JiraIssueOrSpecUrl)
 -
 
+**What types of changes does your code introduce?**
+
+-   [ ] Bugfix
+-   [ ] Feature
+-   [ ] Code style update (formatting, renaming)
+-   [ ] Refactoring (no functional changes)
+-   [ ] Build related changes
+-   [ ] Documentation content changes
+-   [ ] Other (describe):
+
 ## 🏭 How does it work
 
-**Briefly explain how you tackled the issue, what where the alternatives**
+**Briefly explain how you tackled the issue, what were the alternatives**
 
 ## 🧪 How to test
 
@@ -20,10 +30,6 @@
 
 **Something you need to inform your reviewer about**
 
-## 👓 To check
+## 👥 Who notify after deployment
 
--   [ ] Do all tests pass
-
--   [ ] Did you add some code? If so, it is covered by tests?
-
--   [ ] Have you updated the relevant documentation?
+**Who should we notify after the deployment of this PR?**
