@@ -2,7 +2,7 @@
 
 **Describe what your PR addresses, could be a bug or a feature request**
 
--   [Specs](#JiraIssueOrSpecUrl)
+-   [Specs](https://phantombuster.atlassian.net/browse/[TICKET-ID])
 
 **What types of changes does your code introduce?**
 
