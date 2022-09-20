@@ -18,16 +18,31 @@
 
 **Briefly explain how you tackled the issue, what were the alternatives**
 
-## 🧪 How to test
-
-**Suggest a QA process to the reviewers**
-
--   `npm start` to start API
--   ...
-
 ## 🗒 Notes
 
-**Something you need to inform your reviewer about**
+**Something you need to inform your reviewers about**
+
+## 🧪 QA Process
+
+**Details a QA process to the reviewers**
+
+### ✅ Nominal scenario
+
+- [ ] ...
+
+### ❌ Non-nominal scenario
+
+- [ ] ...
+
+## 👌 To check
+
+- [ ] There's no regression
+
+- [ ] Coding guidelines are followed
+
+    - [Contributing](https://github.com/phantombuster/engineering-docs/blob/master/contributing.md)
+
+    - [Testing](https://github.com/phantombuster/engineering-docs/blob/master/testing.md)
 
 ## 👥 Who needs to be notified after deployment
 
