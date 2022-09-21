@@ -2,28 +2,36 @@
 
 **Describe what your PR addresses, could be a bug or a feature request**
 
--   [Specs](#JiraIssueOrSpecUrl)
--
+-   [Specs](https://phantombuster.atlassian.net/browse/[TICKET-ID])
 
 ## 🏭 How does it work
 
-**Briefly explain how you tackled the issue, what where the alternatives**
-
-## 🧪 How to test
-
-**Suggest a QA process to the reviewers**
-
--   `npm start` to start API
--   ...
+**Briefly explain how you tackled the issue, what were the alternatives**
 
 ## 🗒 Notes
 
-**Something you need to inform your reviewer about**
+**Something you need to inform your reviewers about**
 
-## 👓 To check
+-   [ ] This change requires a documentation update
+-   [ ] This change requires a unit tests update
 
--   [ ] Do all tests pass
+## 🧪 QA Process
 
--   [ ] Did you add some code? If so, it is covered by tests?
+**Details a QA process to the reviewers**
 
--   [ ] Have you updated the relevant documentation?
+### ✅ Positive testing (should succeed)
+
+-   ...
+
+### ❌ Negative testing (should fail)
+
+-   ...
+
+## 👌 To check
+
+-   [ ] There's no regression
+-   [ ] Coding guidelines are followed ([Contributing](https://github.com/phantombuster/engineering-docs/blob/master/contributing.md), [Testing](https://github.com/phantombuster/engineering-docs/blob/master/testing.md))
+
+## 👥 Who needs to be notified after deployment
+
+**Who should we notify after the deployment of this PR?**
