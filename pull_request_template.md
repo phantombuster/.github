@@ -13,27 +13,24 @@
 **Something you need to inform your reviewers about**
 
 -   [ ] This change requires a documentation update
--   [ ] This change requires existing unit tests update
+-   [ ] This change requires a unit tests update
 
 ## 🧪 QA Process
 
 **Details a QA process to the reviewers**
 
-### ✅ Nominal scenario
+### ✅ Positive testing (should succeed)
 
--   [ ] ...
+-   ...
 
-### ❌ Non-nominal scenario
+### ❌ Negative testing (should fail)
 
--   [ ] ...
+-   ...
 
 ## 👌 To check
 
 -   [ ] There's no regression
--   [ ] Coding guidelines are followed
-
-    -   [Contributing](https://github.com/phantombuster/engineering-docs/blob/master/contributing.md)
-    -   [Testing](https://github.com/phantombuster/engineering-docs/blob/master/testing.md)
+-   [ ] Coding guidelines are followed ([Contributing](https://github.com/phantombuster/engineering-docs/blob/master/contributing.md), [Testing](https://github.com/phantombuster/engineering-docs/blob/master/testing.md))
 
 ## 👥 Who needs to be notified after deployment
 
