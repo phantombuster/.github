@@ -32,6 +32,6 @@
 -   [ ] There's no regression
 -   [ ] Coding guidelines are followed ([Contributing](https://github.com/phantombuster/engineering-docs/blob/master/contributing.md), [Testing](https://github.com/phantombuster/engineering-docs/blob/master/testing.md))
 
-## 👥 Who needs to be notified after deployment
+## 🚀 What to do after deployment
 
-**Who should we notify after the deployment of this PR?**
+**Who should be notified after the deployment of this PR? What should be written in the changelog on Slack?**
