@@ -2,7 +2,7 @@
 
 **Describe what your PR addresses, could be a bug or a feature request**
 
--   [Specs](https://phantombuster.atlassian.net/browse/[TICKET-ID])
+-   [Specs](https://linear.app/phantombuster/issue/[TICKET-ID])
 
 ## 🏭 How does it work
 
