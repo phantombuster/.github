@@ -27,6 +27,14 @@
 
 -   ...
 
+## Tracking
+
+-   New: <event or analyticsid> — <properties>
+-   Changed: <renames: request an Analytics review in #data-team before merging>
+-   Follow-up: <PR or issue where tracking lands, if not in this PR>
+
+Or: No tracking change — <reason>
+
 ## 👌 To check
 
 -   [ ] There's no regression
